@@ -20,7 +20,7 @@ This tool builds a complete financial audit dashboard entirely using core Python
 
 ## 🎨 Financial Intelligence Dashboard
 
-![SpendDNA Dashboard](Priyanka_SpendDNA_Final_Dashboard.png)
+![SpendDNA Dashboard](Vedant_SpendDNA_Final_Dashboard.png)
 
 ---
 
